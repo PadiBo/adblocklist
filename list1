@@ -34,7 +34,6 @@ g.bing.com
 gdpr-tcfv2.sp-prod.net
 gllto2.glpals.com
 go-mpulse.net
-stats.wp.com
 googleads.g.doubleclick.net
 googletagmanager.com
 graph.fbpigeon.com
@@ -42,6 +41,7 @@ hawkbit.devolo.net
 images-eds-ssl.xboxlive.com
 img-s-msn-com.akamaized.net
 incoming.telemetry.mozilla.org
+intellitxt.com
 levelaccess.net
 lfghub-anonymous.xboxlive.com
 licensing.mp.microsoft.com
@@ -56,6 +56,7 @@ pagead2.googlesyndication.com
 platform.twitter.com
 presence-heartbeat.xboxlive.com
 profile.xboxlive.com
+pub.network
 r.bing.com
 script.ioam.de
 scrootca1.ocsp.secomtrust.net
@@ -63,6 +64,7 @@ speedcurve.com
 static.doubleclick.net
 statics-storeexp-neu-ms-com.akamaized.net
 stats.datawrapper.de
+stats.wp.com
 storecatalogrevocation.storequality.microsoft.com
 upscore.com
 userpresence.xboxlive.com
@@ -75,5 +77,3 @@ www.msn.com
 x1.c.lencr.org
 xblmessaging.xboxlive.com
 z-m-lookaside.facebook.com
-pub.network
-intellitxt.com
