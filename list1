@@ -1,11 +1,13 @@
 277d949707621952d373cd78658cdb0d.clo.footprintdns.com
 a3.tuyaeu.com
 acdn.adnxs.com
+acsechocaptiveportal.com
 activity.windows.com
 adalliance.io
 ads.api.vungle.com
 adservice.google.com
 am4pap001.settings.live.net
+ams1.b.ak.prd.aadg.trafficmanager.net
 analytics.sandstorm.game
 api.msn.com
 app.adjust.com
@@ -35,6 +37,7 @@ gdpr-tcfv2.sp-prod.net
 gllto2.glpals.com
 go-mpulse.net
 googleads.g.doubleclick.net
+google-analytics.com
 googletagmanager.com
 graph.fbpigeon.com
 hawkbit.devolo.net
@@ -58,8 +61,10 @@ presence-heartbeat.xboxlive.com
 profile.xboxlive.com
 pub.network
 r.bing.com
+r4---sn-h0jeener.googlevideo.com
 script.ioam.de
 scrootca1.ocsp.secomtrust.net
+spectrum.s3.amazonaws.com
 speedcurve.com
 static.doubleclick.net
 statics-storeexp-neu-ms-com.akamaized.net
@@ -72,10 +77,9 @@ v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 wdcp.microsoft.com
 widgets.outbrain.com
+wpad.fritz.box
 www.bing.com
 www.msn.com
 x1.c.lencr.org
 xblmessaging.xboxlive.com
 z-m-lookaside.facebook.com
-google-analytics.com
-ams1.b.ak.prd.aadg.trafficmanager.net
