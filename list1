@@ -128,3 +128,38 @@ www.msn.com
 x1.c.lencr.org
 xblmessaging.xboxlive.com
 z-m-lookaside.facebook.com
+
+
+127.0.0.1 self.events.data.microsoft.com
+127.0.0.1 wpad.fritz.box
+127.0.0.1 kinesis.us-east-1.amazonaws.com
+127.0.0.1 licensing.mp.microsoft.com
+127.0.0.1 catalog.gamepass.com
+127.0.0.1 www.msftncsi.com
+127.0.0.1 dns.msftncsi.com
+127.0.0.1 activity.windows.com
+127.0.0.1 config.edge.skype.com
+127.0.0.1 ads.aerserv.com
+127.0.0.1 g.bing.com
+127.0.0.1 ads.inmobi.com
+127.0.0.1 api.taboola.com
+
+# nVidia Telemetry
+127.0.0.1 gfswl.geforce.com
+127.0.0.1 gfe.geforce.com
+#127.0.0.1 telemetry.nvidia.com
+127.0.0.1 gfe.nvidia.com
+#127.0.0.1 telemetry.gfe.nvidia.com
+127.0.0.1 events.gfe.nvidia.com
+::1 gfswl.geforce.com
+::1 gfe.geforce.com
+#::1 telemetry.nvidia.com
+::1 gfe.nvidia.com
+#::1 telemetry.gfe.nvidia.com
++::1 events.gfe.nvidia.com
+127.0.0.1 services.gfe.nvidia.com
+
+
+
+
+
