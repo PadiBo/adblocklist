@@ -2,24 +2,35 @@
 277d949707621952d373cd78658cdb0d.clo.footprintdns.com
 a3.tuyaeu.com
 acdn.adnxs.com
+acroipm2.adobe.com
+acroipm2.adobe.com
 acsechocaptiveportal.com
 activity.windows.com
+ad.7li.de
 ada.ecommerce.highwire.org
 adalliance.io
+ads.aerserv.com
 ads.api.vungle.com
+ads.inmobi.com
 adservice.google.com
+ajax.aspnetcdn.com
 am4pap001.settings.live.net
 ams1.b.ak.prd.aadg.trafficmanager.net
 analytics.sandstorm.game
+api.diagnostics.office.com
 api.epicgames.dev
 api.eu-west-1.aiv-delivery.net
 api.msn.com
+api.taboola.com
 app.adjust.com
 array615.prod.do.dsp.mp.microsoft.com
 array616.prod.do.dsp.mp.microsoft.com
 asadcdn.com
 assets.msn.com
+au.vortex-win.data.microsoft.com
 auth.services.adobe.com
+au-v10.events.data.microsoft.com
+au-v20.events.data.microsoft.com
 beacons.gcp.gvt2.com
 brightcove.com
 casual-solitaire.cloudapp.net
@@ -38,7 +49,10 @@ cs1780.wpc.phicdn.net
 cs63-ia5.ia5.r.force.com
 cs9.wac.phicdn.net
 d3p8zr0ffa9t17.cloudfront.net
+de.vortex-win.data.microsoft.com
 deff.nelreports.net
+de-v20.events.data.microsoft.com
+device.auth.xboxlive.com
 device-metrics-us-2.amazon.com
 discover-pa.googleapis.com
 dmd.metaservices.microsoft.com
@@ -49,18 +63,28 @@ edge.microsoft.com
 edge-mqtt.facebook.com
 emsservice.de
 epdg.epc.mnc001.mcc262.pub.3gppnetwork.org
+eu.vortex-win.data.microsoft.com
+eu-v10.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
+events.data.microsoft.com
+events.gfe.nvidia.com
+events-sandbox.data.microsoft.com
 evt-na.klarnaservices.com
 footprintdns.com
 fp-as-nocache.azureedge.net
 g.bing.com
 gdpr-tcfv2.sp-prod.net
 geo.prod.do.dsp.mp.microsoft.com
+gfe.geforce.com
+gfe.nvidia.com
+gfswl.geforce.com
 gllto2.glpals.com
 go-mpulse.net
 googleads.g.doubleclick.net
 google-analytics.com
 googletagmanager.com
 graph.fbpigeon.com
+graph.microsoft.com
 graph.oculus.com
 grs.dbankcloud.eu
 hawkbit.devolo.net
@@ -68,24 +92,33 @@ healthcommon-dre.things.dbankcloud.cn
 images-eds-ssl.xboxlive.com
 img-s-msn-com.akamaized.net
 ims-na1.adobelogin.com
+ims-prod-cms-rt-microsoft-com.akamized.net
 incoming.telemetry.mozilla.org
 intellitxt.com
 ip-info.ff.avast.com
 ipv6.msftconnecttest.com
+jp-v10.events.data.microsoft.com
+jp-v20.events.data.microsoft.com
+kinesis.us-east-1.amazonaws.com
 kv601.prod.do.dsp.mp.microsoft.com
 la3-c1-ia4.ia4.r.salesforceliveagent.com
 levelaccess.net
 lfghub-anonymous.xboxlive.com
 licensing.mp.microsoft.com
 mcg-frontdoor.microsoftcasualgames.com
+mem.gfx.ms
+messaging.engagement.office.com
 met.vgwort.de
 mqtt-mini.facebook.com
 mrodevicemgr.officeapps.live.com
 msmonplat.trafficmanager.net
 mxcdn.net
+nexuxrules.officeapps.live.com
 notify.xboxlive.com
 ntp.msn.com
 o.ss2.us
+ogs.google.com
+omex.cdn.office.net
 pagead2.googlesyndication.com
 platform.twitter.com
 presence-heartbeat.xboxlive.com
@@ -97,25 +130,46 @@ samsungnewsapi.picks.my
 script.ioam.de
 scrootca1.ocsp.secomtrust.net
 self.events.data.microsoft.com
+services.gfe.nvidia.com
+settings-win.data.microsoft.com
 spectrum.s3.amazonaws.com
 speedcurve.com
+s-ring.msedge.net
 star-ecommerce-highwire-org.dns.foxycart.com
 static.doubleclick.net
 statics-storeexp-neu-ms-com.akamaized.net
 staticview.msn.com
+statistics-marketingsites-neu-ms-com.akamized.net
 stats.datawrapper.de
 stats.wp.com
 storecatalogrevocation.storequality.microsoft.com
 substrate.office.com
+support.content.office.net
+telecommand.telemetry.microsoft.com
 telemetry.api.swiftkey.com
+telemetry.gfe.nvidia.com
+telemetry.nvidia.com
 telemetry.sdk.inmobi.com
 uci.cdn.office.net
+uci.edog.cdn.office.net
+uk.vortex-win.data.microsoft.com
+uk-v20.events.data.microsoft.com
 umwatson.events.data.microsoft.com
 upscore.com
+us.vortex-win.data.microsoft.com
+us4-v20.events.data.microsoft.com
+us5-v20.events.data.microsoft.com
 userpresence.xboxlive.com
+us-v10.events.data.microsoft.com
+us-v20.events.data.microsoft.com
 v10.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
 v20.events.data.microsoft.com
+v20.vortex-win.data.microsoft.com
 view.adjust.com
+vortex-win.data.microsoft.com
+vortex-win-sandbox.data.microsoft.com
+watson.*.microsoft.com
 wdcp.microsoft.com
 wdcpalt.microsoft.com
 web.diagnostic.networking.aws.dev
@@ -124,71 +178,8 @@ windows.msn.com
 wpad.fritz.box
 www.bing.com
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+www.msftncsi.com
 www.msn.com
 x1.c.lencr.org
 xblmessaging.xboxlive.com
 z-m-lookaside.facebook.com
-
-
-127.0.0.1 self.events.data.microsoft.com
-127.0.0.1 wpad.fritz.box
-127.0.0.1 kinesis.us-east-1.amazonaws.com
-127.0.0.1 licensing.mp.microsoft.com
-127.0.0.1 catalog.gamepass.com
-127.0.0.1 www.msftncsi.com
-127.0.0.1 dns.msftncsi.com
-127.0.0.1 activity.windows.com
-127.0.0.1 config.edge.skype.com
-127.0.0.1 ads.aerserv.com
-127.0.0.1 g.bing.com
-127.0.0.1 ads.inmobi.com
-127.0.0.1 api.taboola.com
-
-# nVidia Telemetry
-127.0.0.1 gfswl.geforce.com
-127.0.0.1 gfe.geforce.com
-#127.0.0.1 telemetry.nvidia.com
-127.0.0.1 gfe.nvidia.com
-#127.0.0.1 telemetry.gfe.nvidia.com
-127.0.0.1 events.gfe.nvidia.com
-::1 gfswl.geforce.com
-::1 gfe.geforce.com
-#::1 telemetry.nvidia.com
-::1 gfe.nvidia.com
-#::1 telemetry.gfe.nvidia.com
-+::1 events.gfe.nvidia.com
-127.0.0.1 services.gfe.nvidia.com
-
-
-#Micrsoft Telemetry
-au-v10.events.data.microsoft.com
-au-v20.events.data.microsoft.com
-au.vortex-win.data.microsoft.com
-de-v20.events.data.microsoft.com
-de.vortex-win.data.microsoft.com
-eu-v10.events.data.microsoft.com
-eu-v20.events.data.microsoft.com
-eu.vortex-win.data.microsoft.com
-events-sandbox.data.microsoft.com
-events.data.microsoft.com
-jp-v10.events.data.microsoft.com
-jp-v20.events.data.microsoft.com
-settings-win.data.microsoft.com
-telecommand.telemetry.microsoft.com
-uk-v20.events.data.microsoft.com
-uk.vortex-win.data.microsoft.com
-us-v10.events.data.microsoft.com
-us-v20.events.data.microsoft.com
-us.vortex-win.data.microsoft.com
-us4-v20.events.data.microsoft.com
-us5-v20.events.data.microsoft.com
-v10.events.data.microsoft.com
-v10.vortex-win.data.microsoft.com
-v20.events.data.microsoft.com
-v20.vortex-win.data.microsoft.com
-vortex-win-sandbox.data.microsoft.com
-vortex-win.data.microsoft.com
-watson.*.microsoft.com
-
-
-
