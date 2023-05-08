@@ -174,8 +174,6 @@ v20.vortex-win.data.microsoft.com
 view.adjust.com
 vortex-win.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
-watson.*.microsoft.com
-watson\..*\.microsoft\.com
 wdcp.microsoft.com
 wdcpalt.microsoft.com
 web.diagnostic.networking.aws.dev
