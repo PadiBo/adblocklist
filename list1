@@ -70,7 +70,9 @@ events.gfe.nvidia.com
 events-sandbox.data.microsoft.com
 evt-na.klarnaservices.com
 footprintdns.com
+fp-afd.azurefd.net
 fp-as-nocache.azureedge.net
+fp-vp-nocache.azureedge.net
 g.bing.com
 gdpr-tcfv2.sp-prod.net
 geo.prod.do.dsp.mp.microsoft.com
@@ -104,6 +106,7 @@ la3-c1-ia4.ia4.r.salesforceliveagent.com
 levelaccess.net
 lfghub-anonymous.xboxlive.com
 licensing.mp.microsoft.com
+ls.dtrace.nvidia.com
 mcg-frontdoor.microsoftcasualgames.com
 mem.gfx.ms
 messaging.engagement.office.com
@@ -116,14 +119,17 @@ nexuxrules.officeapps.live.com
 notify.xboxlive.com
 ntp.msn.com
 o.ss2.us
+ocws.officeapps.live.com
 omex.cdn.office.net
 pagead2.googlesyndication.com
 platform.twitter.com
 presence-heartbeat.xboxlive.com
+privacy.xboxlive.com
 prod-addinsstoreapi.omexexternallfb.office.net.akadns.net
 profile.xboxlive.com
 pub.network
 r.bing.com
+r[0-9]{1,2}-sn-[a-z0-9]-[0-9a-z]{4}.googlevideo.com
 roaming.officeapps.live.com
 samsungnewsapi.picks.my
 script.ioam.de
@@ -169,6 +175,7 @@ view.adjust.com
 vortex-win.data.microsoft.com
 vortex-win-sandbox.data.microsoft.com
 watson.*.microsoft.com
+watson\..*\.microsoft\.com
 wdcp.microsoft.com
 wdcpalt.microsoft.com
 web.diagnostic.networking.aws.dev
