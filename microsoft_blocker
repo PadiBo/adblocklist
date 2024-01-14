@@ -58,6 +58,7 @@
 0.0.0.0	g.msn.com
 0.0.0.0	go.microsoft.com
 0.0.0.0	h1.msn.com
+0.0.0.0	hubblecontent.osi.office.net 
 0.0.0.0	i1.services.social.microsoft.com
 0.0.0.0	i1.services.social.microsoft.com.nsatc.net
 0.0.0.0	lb1.www.ms.akadns.net
@@ -71,6 +72,7 @@
 0.0.0.0	msftncsi.com
 0.0.0.0	msnbot-65-55-108-23.search.msn.com
 0.0.0.0	msntest.serving-sys.com
+0.0.0.0	nexus.officeapps.live.com
 0.0.0.0	oca.telemetry.microsoft.com
 0.0.0.0	oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0	officeclient.microsoft.com
