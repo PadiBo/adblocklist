@@ -127,3 +127,4 @@
 0.0.0.0	wes.df.telemetry.microsoft.com
 0.0.0.0	www.msftncsi.com
 0.0.0.0 login.microsoftonline.com 
+0.0.0.0 graph.microsoft.com 
